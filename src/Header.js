@@ -1,11 +1,11 @@
 import React from 'react';
 import styled from 'styled-components';
 
-function Header() {
+function Header() { 
   return (
     <Wrapper>
         <TopBox></TopBox>
-        <Title>BR</Title>
+        <Title>BghjhgjjR</Title>
         <List>introduce</List>
         <List>web</List>
         <List>artwork</List>
